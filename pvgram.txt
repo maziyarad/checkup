@@ -1,0 +1,12 @@
+[
+    {
+        "content": "React Native has a built-in command line interface.",
+        "date": "03/14/2024, 16:26:12",
+        "username": "ناشناس 1"
+    },
+    {
+        "content": "سلام چطورین؟",
+        "date": "03/14/2024, 16:26:12",
+        "username": "ناشناس 100"
+    }
+]
